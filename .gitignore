@@ -1,0 +1,17 @@
+# Ignore Word files
+*.doc
+*.docx
+
+# Ignore the appointment-agent folder
+appointment-agent/
+
+# Ignore bootcamp visuals
+bootcamp-visuals.excalidraw
+
+
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd

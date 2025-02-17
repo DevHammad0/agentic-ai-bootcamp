@@ -1,42 +1,57 @@
+# Agentic AI Bootcamp
 
-# LangGraph Tutorial
+Welcome to the Agentic AI Bootcamp! This comprehensive course is designed to take you through the journey of understanding and building AI agents, from basic Python programming to advanced LangGraph implementations.
 
-This tutorial provides a step-by-step guide on how to use LangGraph, a tool developed by the LangChain team to build Agent apps. LangGraph allows you to create graphs and call them, enabling you to create complex applications powered by LangChain.
+## Course Structure
 
-## Introduction
-- Brief overview of LangGraph and its purpose
-- Mention the availability of a blog and notebooks provided by the LangChain team for further reference
+### 1. Python Fundamentals
+- **Google Colab Introduction**: Learn to use Google Colab for cloud-based development
+- **Python Programming**: Core Python concepts and programming fundamentals
+
+### 2. AI Agents and Workflows
+- **Introduction to AI Agents**: Understanding the basics of AI agents and their applications
+- **Agent Workflows**: Learn about agent architectures and workflow patterns
+
+### 3. LangGraph Advanced Topics
+- Building complex agent applications using LangGraph
+- Graph-based workflow implementation
+- Integration with LangChain
+- Making LLM calls and tool usage
+- Conditional edge implementation in agent graphs
+- Thread Level Persistence
+
+## Project Components
+
+- `python/`: Contains Python programming fundamentals and setup guides
+- `langgraph/`: Advanced LangGraph tutorials and implementations
 
 ## Getting Started
-- Installation instructions for LangGraph using pip
-- Importing the LangGraph library and initializing a workflow
 
-## Building a Simple Graph
-- Explanation of the simplest graph structure with two nodes connected by an edge
-- Overview of the user input and functions used in the graph
-- Code examples and explanations of function one and function two
+1. Start with the Python fundamentals in the `python` directory
+2. Progress through the environment setup guides
+3. Explore the appointment agent implementation
+4. Advance to LangGraph tutorials
 
-## Compiling and Invoking the Graph
-- Instructions on compiling the graph app
-- Explanation of invoking the graph using user input
-- Output examples and explanation of the graph's functionality
+## Visual Resources
+The repository includes visual aids to help understand agent workflows:
+- Agent workflow diagrams
+- Implementation flowcharts
+- Architecture visualizations
 
-## Making LLM Calls
-- Introduction to making LLM calls in the graph
-- Explanation of modifying function one to invoke an LLM model
-- Instructions on installing the LangChain OpenAI package
-- Steps to add the API key for making API calls
+## Prerequisites
+- Basic programming knowledge
+- Understanding of AI/ML concepts (recommended)
 
-## Using Tools in LangGraph
-- Overview of tools available in LangGraph
-- Instructions on binding a tool to the model and using tool invocation
-- Code examples and explanations of tool usage in function two
+## Tools and Technologies Used
+- Python 3.10+
+- LangGraph
+- LangChain
+- Various AI/ML libraries
 
-## Conditional Edge
-- Explanation of the conditional edge in a graph
-- Instructions on defining conditional behavior in the graph's functions
-- Implementation of the conditional edge in the graph
+## Contributing
+Feel free to contribute to this bootcamp by submitting pull requests or raising issues.
 
-## Conclusion
+## Contact
+For questions and support, reach out on [LinkedIn](https://www.linkedin.com/in/devhammad0)
 
-Hope you get a good understanding of LangGraph. Reach out on [LinkedIn](https://www.linkedin.com/in/devhammad0) if any questions
+

@@ -4,6 +4,7 @@
 
 # Ignore the appointment-agent folder
 appointment-agent/
+agentic-ai-bootcamp-pics/
 
 # Ignore bootcamp visuals
 bootcamp-visuals.excalidraw
